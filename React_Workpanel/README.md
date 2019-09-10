@@ -16,6 +16,6 @@ It is made with react.js and is hosted on netlify
 
 ## or 
 
-Follow this link if you want to take a look at it: 
+Follow this link if you want to take a look at it:  
 
 https://vigilant-mcclintock-50e931.netlify.com/
